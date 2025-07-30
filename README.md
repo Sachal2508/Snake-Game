@@ -54,7 +54,7 @@ Updated only when you beat the previous best
 ## 👨‍💻 Author
 Muhammad Sachal
 🔗 https://sachal-portfolio.onrender.com
- https://www.linkedin.com/in/muhammad-sachal-9a929136a/
+🐱 https://www.linkedin.com/in/muhammad-sachal-9a929136a/
 📫 m.sachal@example.com
 
 ---
