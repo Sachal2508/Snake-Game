@@ -69,26 +69,7 @@ cd snake-game-pygame
 ---
 
 📝 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-### ✅ Tips:
-- Replace placeholder links with actual URLs.
-- Add a screenshot of your game running for better visual appeal.
-- Customize the *Author* and *Future Improvements* sections as needed.
-
-Want me to generate a badge-rich version or include GitHub Actions for CI?
-
-
----
-
-### ✅ Tips:
-- Replace placeholder links with actual URLs.
-- Add a screenshot of your game running for better visual appeal.
-- Customize the *Author* and *Future Improvements* sections as needed.
-
-Want me to generate a badge-rich version or include GitHub Actions for CI?
+This project is licensed under the MIT License. Feel free to fork and modify for personal or educational purpose.
 
 ---
 
