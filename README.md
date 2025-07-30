@@ -73,7 +73,7 @@ This project is licensed under the MIT License. Feel free to fork and modify for
 
 ---
 
-## ⭐ Like this project?
+⭐ Like this project?
 If you found this project helpful, feel free to give it a ⭐ on GitHub and share it with others!
 
 
