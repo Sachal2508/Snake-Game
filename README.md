@@ -20,9 +20,8 @@ Includes multiple difficulty levels, interactive menus, sound effects, and dynam
 ---
 
 ## 📸 Screenshots
-
 ![Gameplay Screenshot](https://github.com/user-attachments/assets/f990bbd7-ed0a-49e4-88b0-d62300476cb9)
-![Game Menu Screenshot 1](https://github.com/user-attachments/assets/c89781ab-e7cc-4c95-8ac3-eb351d280504)
+![Game Menu Screenshot 1](https://github.com/user-attachments/assets/2a09195e-c841-4043-b39a-4eb85a1e40b5)
 ![Game Menu Screenshot 2](https://github.com/user-attachments/assets/4e7d3d03-9026-4ac0-8e9e-91dfc09b25e5)
 
 ---
